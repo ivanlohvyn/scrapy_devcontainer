@@ -1,0 +1,1 @@
+<h1>Template for Scrapy project in Vscode devcontainer<h1>
