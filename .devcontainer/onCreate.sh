@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#Install Poetr
+# Install Poetry
 set -e -o pipefail
 sudo apt update -y
 sudo apt install python3-pip  python3-venv -y
